@@ -1,7 +1,12 @@
+.gradle
+*.iml
+*.ipr
+*.iws
+
+build
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
-.gradle
