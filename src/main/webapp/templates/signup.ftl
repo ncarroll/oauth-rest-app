@@ -4,7 +4,7 @@
     <div class="well">
         <h2 class="form-signin-heading">Sign up</h2>
 
-        <form>
+        <form id="signup" action="/signup" method="post">
             <input id="login" name="j_username" type="text" autocorrect="off" autocapitalize="off"
                    class="input-block-level" placeholder="Email address">
             <input id="password" name="j_password" type="password" class="input-block-level" placeholder="Password">
