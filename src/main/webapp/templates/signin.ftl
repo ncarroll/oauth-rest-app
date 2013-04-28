@@ -2,7 +2,7 @@
 <@layout.mainLayout>
 <div class="offset3 span6">
     <div class="well">
-        <form class="form-signin">
+        <form class="form-signin" action="/signin/authenticate" method="post">
             <h2 class="form-signin-heading">Please sign in</h2>
             <input id="login" name="j_username" type="text" autocorrect="off" autocapitalize="off"
                    class="input-block-level" placeholder="Email address">

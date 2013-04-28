@@ -76,7 +76,7 @@
                       authorities="ROLE_CLIENT" scope="read,write" secret="secret"/>
 
         <oauth:client client-id="app" resource-ids="appApi" scope="read,write"
-                      authorized-grant-types="authorization_code,token,password" authorities="ROLE_CLIENT"/>
+                      authorized-grant-types="authorization_code,implicit" authorities="ROLE_CLIENT"/>
     </oauth:client-details-service>
 
 </beans:beans>
