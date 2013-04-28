@@ -1,0 +1,1 @@
+<p class="muted credit">App footer.</p>
