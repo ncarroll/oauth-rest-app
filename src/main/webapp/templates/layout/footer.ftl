@@ -1,1 +1,1 @@
-<p class="muted credit">App footer.</p>
+<p class="muted credit text-center">OAuth starter app.</p>
